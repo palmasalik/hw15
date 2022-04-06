@@ -1,0 +1,417 @@
+@media(max-width:1200px){
+    .container{
+        max-width: 960px;
+    }
+    .threena{
+        width: 425px;
+    }
+    .amina{width: 405px;}
+    .tea:first-child{margin-left: 32px;}
+    .klass{width: 397px;}
+    .oliver{width: 433px;}
+    .elevna{width: 458px;}
+    .sem{width: 405px;}
+    .barri {width: 420px;}
+    .arom {width: 505px;}
+    .mal {width: 450px;}
+    .xolod{font-size: 14px;}
+    .jopa {width: 399px;}
+    .long{width: 414px}
+    .ura{max-width: 54%;}
+    .ray{width: 473px;}
+    .shest{width: 485px;}
+    .ten{font-size: 60px;}
+    .eleven{padding: 0 160px;}
+    .plus{padding: 68px;}
+    .desat{width: 300px;}
+    .patnadsat{width: 255px;}
+    .razmer{width: 250px;}
+    .palms{width: 50%; }
+    .uss{width: 385px;}
+    input,textarea{width: 90%;}
+    .krid{    flex-direction: column;
+        width: 100%;
+        display: flex;
+        align-items: center;}
+        .palmas{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 30px;
+            
+        }
+        .fv{
+            margin-bottom: 30px;
+        }
+        .imo{width: 74px;margin-bottom: 20px;}
+        .sok{width: 359px;}
+}
+@media(max-width:960px){
+    .container{
+        max-width: 720px;
+    }
+    .five{margin: 0;display: block;}
+    .ten{font-size: 46px;}
+    .eleven{padding: 0 70px;}
+    .plus{padding: 53px;}
+    .shest{font-size: 30px ; width: 288px;}
+    .sem{font-size: 15px; width: 288px;}
+    .pyat::after{width: 100px;}
+    .razmer{width: 178px;}
+    .dvenadsat{font-size: 24px;}
+    .patnadsat{width: 168px;}
+    .desat{width: 173px;}
+    .elevna{width: 345px;font-size: 26px;}
+    .threena{width: 328px;font-size: 17px;}
+    .qna {font-size: 25px;}
+    .barri{width: 314px; font-size: 24px;}
+    .arom{width: 307px;font-size: 15px;}
+    .maiz{display: block;}
+    .amina{width: 200px;font-size: 25px;}
+    .ray{width: 406px;font-size: 14px;}
+    .mal{width: 320px; padding: 27px 20px 41px 20px;}.sola{font-size: 18px;}.xolod{font-size: 13px;}.test{margin-top: -25px;}.jopa{width: 309px; font-size: 25px;}.long,.klass,.sok{width: 305px;}.imo{width: 110px;}
+    .ura{height: 450px;}.sok{margin-top: 25px;}.klass{margin-top: 20px;}.rera{padding-bottom: 30px;}.palms {width: 75%;height: 530px;}.fv{height: 223px;}.ara{height: 378px;}input:first-child{margin-top: 20px;}textarea{height: 90px;}.servic {font-size: 17px;}
+    .thelast{justify-content: space-evenly;}.rer,.ror{margin-left: 0;}.rer{margin-top: 0;}.second{flex-wrap: wrap;}.sara::after{width: 100px;}
+    .tea:first-child{margin-left: -24px;}.oliver{width: 376px;}
+}
+@media(max-width:720px){
+    .ten {
+        font-size: 38px;
+        line-height: 55px;
+    }
+    .eleven{font-size: 16px;
+        line-height: 25px;}
+        .first {
+            font-size: 15px;
+            line-height: 20px;
+            padding: 15px 30px;
+            margin-left: 15px;
+            margin-right: 15px;
+        }
+        .rar {
+            height: 12%;
+            width: 24%;
+        }
+        .rer , .ror{
+            margin-left: -30px;
+            height: 10%;
+            width: 15%;
+        }.rer {
+            margin-top: 31px;
+        }.ror {
+            margin-top: -70px;}
+            .second {
+                margin-top: 115px;
+                margin-bottom: 40px;
+            }
+            .plus {
+                padding: 30px;
+            }.third {
+                justify-content: center;
+            }.odin,.dva{width: 40%;}.elevna {
+                width: 320px;
+                font-size: 20px;
+            }.threena {
+                width: 293px;
+                font-size: 15px;
+            line-height: 25px;
+            }.fivena {
+                padding-top: 25px;
+                padding-bottom: 25px;
+            }.qna {
+                font-size: 23px;
+            line-height: 30px;
+            }.sevena {
+                padding-top: 65px;
+                padding-bottom: 65px;
+            }.barri {
+                width: 230px;
+                font-size: 18px;line-height: 30px;
+            }.arom {
+                width: 302px;
+                font-size: 13px;line-height: 25px;
+            }
+            .tea {
+                width: 376px;
+                border-radius: 77px;
+                margin-left: 0;
+            }.tea:first-child {
+                margin-left: 0px;
+            }
+            .oliver {
+                border-radius: 50px;
+                margin-top: -100px;
+            }
+            .bog{padding-bottom: 40px;}.elena {
+                margin: 120px auto 70px;
+            }.hloya{width: 200px;}.maiz {font-size: 17px}.amina{line-height: 40px;}.seca{justify-content: space-around;}.imo {
+                width: 84px; margin-right: 15px;
+            }
+            .klass {
+                margin-top: 10px;
+            }.tota {
+                font-size: 30px;
+                line-height: 40px;
+                width: 342px;
+            }
+            .asdfasdf {
+                padding-top: 80px;
+                margin-bottom: 50px;
+            }
+            
+}
+@media(max-width:700px){
+    .arom {
+        width: 200px;
+    }
+    .five {
+        font-size: 15px;
+        padding: 0 13px;
+    }
+    .grot {
+        justify-content: space-around;
+    }
+    .mal {
+        width: 295px;
+    }
+}
+@media(max-width:650px){
+    .finiks{font-size: 10px;}
+    .pyat::after{content: none;}.ura {
+        width: 279px;
+        height: 376px;
+    }.koka::after {
+        width: 120px;
+    }
+    .ray {
+        width: 285px;
+    }.luci {
+        justify-content: space-around;
+    }.tea , .tea:first-child{
+        width: 345px;
+        margin-left: 15px;
+    }
+    .elevna {
+        width: 252px;
+line-height: 30px;
+    }
+}
+@media(max-width:620px){
+    .five {
+        padding: 0 8px;
+    }.barri {
+        width: 159px;
+    }.sara{display: block;}.oliver {
+        width: 330px;
+    }.tea, .tea:first-child {
+        width: 314px;
+    }.fire{font-size: 13px;}.mal {
+        width: 250px; padding-bottom: 18px;
+    }.jopa {
+        width: 209px;
+line-height: 36px;
+    }.ura {
+        width: 260px;
+        height: 350px;
+    }.tota {
+        font-size: 26px;
+        width: 296px;
+    }.brend{width: 471px;}
+}
+
+
+@media(max-width:595px){
+    .ten {
+        font-size: 31px;
+    }.shest {
+        font-size: 25px;
+        width: 189px;line-height: 35px;
+    }
+    .pyat{font-size: 15px;}.uss {
+        width: 326px;font-size: 13px;
+    }.patnadsat{line-height: 19px;}
+}
+@media(max-width:575px){
+    .ura {
+        width: 200px;
+        height: 265px;
+    }
+    .long {
+        width: 260px;
+        font-size: 14px;
+    }.elevna {
+        width: 189px;
+        line-height: 25px;font-size: 15px;
+    }
+    .tenna::after{width: 75px;}.five {
+        font-size: 12px;
+    }.razmer {
+        width: 160px;
+    }.tea, .tea:first-child {
+        width: 285px;
+    }
+    .oliver {
+        width: 300px;
+    }.patnadsat {
+        width: 130px;
+    }.odinadsat::after{width: 75px;}.dvenadsat {
+        font-size: 18px;
+    }.desat {
+        width: 158px;
+    }
+}
+@media(max-width:535px){
+    .mal {
+        width: 215px;
+        padding-bottom: 0px;
+    }.sola {
+        font-size: 14px;
+    }.amina {
+        width: 160px;
+        font-size: 20px;
+    }.hloya {
+        width: 163px;
+    }.maiz {
+        font-size: 14px;
+    }.ray {
+        width: 214px;    font-size: 12px;line-height: 22px;
+    }.finiks {
+        font-size: 8px;
+    }.eleven {
+        font-size: 14px;
+        line-height: 21px;margin-top: 7px;
+    }.ten {
+        font-size: 28px;
+        margin-top: -50px;
+    }.ura {
+        width: 170px;
+        height: 215px;
+    }.tea, .tea:first-child {
+        width: 245px;
+    }.oliver {
+        width: 270px;
+    }.threena {
+        width: 250px;
+        font-size: 13px;
+        line-height: 23px;
+    }.sem {
+        font-size: 13px;
+        width: 240px;
+    }
+}
+@media(max-width:490px){
+    .five {
+        font-size: 10px;
+    }.eleven {
+        font-size: 12px;
+    }.first {
+        font-size: 13px;
+        line-height: 15px;
+        padding: 15px 15px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }.twelve {margin-top: 10px;}
+    .chetire{margin-bottom: 10px;}
+    .alarik{width: 344px;}.seca {
+        justify-content: space-between;
+    }.brend {
+        width: 378px;font-size: 17px;
+        line-height: 24px;
+    }.tota{margin-bottom: 10px;}.pyat{margin-bottom: 0;}.tota{margin-top: 2px;}.uss {
+        width: 264px;
+        font-size: 11px;
+    }
+    .oliver {
+        width: 226px;
+    }.tea, .tea:first-child {
+        width: 200px;
+    }.fire {
+        font-size: 12px;line-height: 17px;
+    }.shtorm {
+        font-size: 11px;
+    }.arom {
+        width: 187px;
+        font-size: 12px;
+        line-height: 20px;
+    }.ura{height: 150px;}
+}
+@media(max-width:460px){
+    .elevna {
+        width: 122px;
+        line-height: 20px;
+    }.tenna::after {
+        width: 40px;
+    }.threena {
+        width: 200px;
+        font-size: 12px;
+        line-height: 20px;
+    }.mal {
+        width: 185px;
+    }.xolod {
+        font-size: 11px;line-height: 15px;
+    }.sola {
+        font-size: 15px;
+    }.shest {
+        font-size: 20px;
+        width: 172px;
+        line-height: 25px;
+    }.pyat {
+        font-size: 12px;
+    }.ten {
+        font-size: 24px;
+    }.five {
+        font-size: 8px;
+    }.sem {
+        font-size: 12px;
+        width: 186px;
+    }
+    .ala {font-size: 12px;}
+}
+@media(max-width:430px){
+    .ala {
+        font-size: 10px;
+    }
+    .shtorm {
+        font-size: 9px;
+        line-height: 15px;
+        width: 57px;
+    }.tea, .tea:first-child {
+        width: 185px;
+    }
+    .sok{width: 281px;}.imo {
+        width: 76px;
+        margin-right: 11px;
+    }.klass {
+        width: 200px;    font-size: 14px;
+        line-height: 20px;
+    }.ura {
+        height: 100px;
+        width: 100px;
+    }
+    .seven, .eight{
+        font-size: 15px;
+    }
+    .uss {
+        width: 219px;
+    }
+    .finiks {
+        font-size: 7px;
+    }
+}
+@media(max-width:400px){
+    .shest{width: 126px;}.amina {
+        width: 136px;
+        font-size: 17px;
+    }.oliver {
+        width: 164px;
+    }.tea, .tea:first-child {
+        width: 143px;
+    }.fire {
+    font-size: 9px;
+    line-height: 18px;
+}
+.brend {width: 328px;
+font-size: 13px;
+line-height: 22px;
+}
+}
